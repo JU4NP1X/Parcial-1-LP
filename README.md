@@ -38,7 +38,7 @@
       2. Cuando es reconocido por un autómata finito no determinístico.
       3. Cuando es representado por una expresión regular.
       4. Cuando es generado por una gramática.
-        <div style="text-align: right">La respuesta es: <strong>4</strong></div>
+        <div style="text-align: right">La respuesta es: <strong>1</strong></div>
 
     <br>
 
@@ -48,7 +48,7 @@
       2. n + 1
       3. Depende de la palabra.
       4. Depende de la presencia o falta de símbolos recursivos (directa o indirectamente).
-        <div style="text-align: right">La respuesta es: <strong></strong></div>
+        <div style="text-align: right">La respuesta es: <strong>2</strong></div>
 
     <br>
     <br>
